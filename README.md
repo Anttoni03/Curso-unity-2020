@@ -6,5 +6,5 @@ Repositorio de lo desarrollado durante el curso de Unity 2020
 2. GamePlay
 3. Runner
 4. Sumo
-5. Clcker
+5. Clicker
 6. John Lemon
